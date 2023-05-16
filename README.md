@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a Fitness Tracker built using MERN stack. It facilitates one to add users and record their date and duration of performing particular fitness activity.Activity can also be deleted. This web application is built using MongoDB,Express,Nodejs,React and Material UI. Images used in this application are being taken from [Unsplash website](https://unsplash.com).
+This is a Fitness Tracker built using MERN stack. It facilitates one to add users and record their date and duration of performing particular fitness activity.Activity can also be deleted. This web application is built using MongoDB,Express,Nodejs,React and Material UI. 
 
 ## Demo
 
@@ -31,28 +31,9 @@ Fitness Activity Dashboard
 404 Error page
 ![error](https://user-images.githubusercontent.com/4997491/117525227-dcfb7680-afde-11eb-9434-a8f93c5b76d7.JPG)
 
-## Installation
-
-Step 1
-🍴 Fork this repo!
-
-Step 2
-👯 Clone this repo to your local machine using https://github.com/kritika27/fitness-tracker-mern-stack-app.git
-
-Step 3
-HACK AWAY! 🔨🔨🔨
-
-## Available Scripts
-
-In the project directory, you can run:
 
 `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## LICENSE
 
-Apache License.
 
-Made with ❤
